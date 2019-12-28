@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kaisheng-interest.-github.-io</id>
     <title>Gridea</title>
-    <updated>2019-12-28T07:21:31.231Z</updated>
+    <updated>2019-12-28T07:25:05.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kaisheng-interest.-github.-io"/>
     <link rel="self" href="https://kaisheng-interest.-github.-io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://kaisheng-interest.-github.-io/images/avatar.png</logo>
     <icon>https://kaisheng-interest.-github.-io/favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[从零到1搭建自己的私人博客]]></title>
+        <id>https://kaisheng-interest.-github.-io/post/cong-ling-dao-1-da-jian-zi-ji-de-si-ren-bo-ke</id>
+        <link href="https://kaisheng-interest.-github.-io/post/cong-ling-dao-1-da-jian-zi-ji-de-si-ren-bo-ke">
+        </link>
+        <updated>2019-12-28T07:23:58.000Z</updated>
+        <content type="html"><![CDATA[<p>hello，大家好，这篇文章是一篇教大家如何搭建私人博客的文章。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://kaisheng-interest.-github.-io/post/hello-gridea</id>
